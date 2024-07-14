@@ -1,4 +1,4 @@
-module github.com/topzson/Population-growth-per-country-1950-to-2021
+module github.com/topzson/backend_service_population
 
 go 1.17
 
